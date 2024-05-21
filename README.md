@@ -1,3 +1,11 @@
+## Non-Fungible-Token
+
+Creating a Non-Fungible-Token in 2 ways
+	1. Semi off chain NFT using IPFS
+	2. On Chain NFT by extending ERC721
+
+Semi-fungible-token using ERC1155
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
